@@ -1,0 +1,527 @@
+[
+  {
+    "name": "강대식",
+    "local": "대구",
+    "local_sub": "동구군위군을"
+  },
+  {
+    "name": "강명구",
+    "local": "경북",
+    "local_sub": "구미시을"
+  },
+  {
+    "name": "강민국",
+    "local": "경남",
+    "local_sub": "진주시을"
+  },
+  {
+    "name": "강선영",
+    "local": "비례",
+    "local_sub": ""
+  },
+  {
+    "name": "강승규",
+    "local": "충남",
+    "local_sub": "홍성군예산군"
+  },
+  {
+    "name": "고동진",
+    "local": "서울",
+    "local_sub": "강남구병"
+  },
+  {
+    "name": "곽규택",
+    "local": "부산",
+    "local_sub": "서구동구"
+  },
+  {
+    "name": "구자근",
+    "local": "경북",
+    "local_sub": "구미시갑"
+  },
+  {
+    "name": "권성동",
+    "local": "강원",
+    "local_sub": "강릉시"
+  },
+  {
+    "name": "권영세",
+    "local": "서울",
+    "local_sub": "용산구"
+  },
+  {
+    "name": "권영진",
+    "local": "대구",
+    "local_sub": "달서구병"
+  },
+  {
+    "name": "김건",
+    "local": "비례",
+    "local_sub": ""
+  },
+  {
+    "name": "김기웅",
+    "local": "대구",
+    "local_sub": "중구남구"
+  },
+  {
+    "name": "김기현",
+    "local": "울산",
+    "local_sub": "남구을"
+  },
+  {
+    "name": "김대식",
+    "local": "부산",
+    "local_sub": "사상구"
+  },
+  {
+    "name": "김도읍",
+    "local": "부산",
+    "local_sub": "강서구"
+  },
+  {
+    "name": "김미애",
+    "local": "부산",
+    "local_sub": "해운대구을"
+  },
+  {
+    "name": "김민전",
+    "local": "비례",
+    "local_sub": ""
+  },
+  {
+    "name": "김상훈",
+    "local": "대구",
+    "local_sub": "서구"
+  },
+  {
+    "name": "김석기",
+    "local": "경북",
+    "local_sub": "경주시"
+  },
+  {
+    "name": "김선교",
+    "local": "경기",
+    "local_sub": "여주시양평군"
+  },
+  {
+    "name": "김성원",
+    "local": "경기",
+    "local_sub": "동두천시양주시연천구을"
+  },
+  {
+    "name": "김소희",
+    "local": "비례",
+    "local_sub": ""
+  },
+  {
+    "name": "김승수",
+    "local": "대구",
+    "local_sub": "북구을"
+  },
+  {
+    "name": "김용태",
+    "local": "경기",
+    "local_sub": "포천시가평군"
+  },
+  {
+    "name": "김위상",
+    "local": "비례",
+    "local_sub": ""
+  },
+  {
+    "name": "김은혜",
+    "local": "경기",
+    "local_sub": "성남시분당구을"
+  },
+  {
+    "name": "김장겸",
+    "local": "비례",
+    "local_sub": ""
+  },
+  {
+    "name": "김재섭",
+    "local": "서울",
+    "local_sub": "도봉구갑"
+  },
+  {
+    "name": "김정재",
+    "local": "경북",
+    "local_sub": "포항시북구"
+  },
+  {
+    "name": "김종양",
+    "local": "경남",
+    "local_sub": "창원시의창구"
+  },
+  {
+    "name": "김태호",
+    "local": "경남",
+    "local_sub": "양산시을"
+  },
+  {
+    "name": "김형동",
+    "local": "경북",
+    "local_sub": "안동시예천군"
+  },
+  {
+    "name": "김희정",
+    "local": "부산",
+    "local_sub": "연제구"
+  },
+  {
+    "name": "나경원",
+    "local": "서울",
+    "local_sub": "동작구을"
+  },
+  {
+    "name": "박대출",
+    "local": "경남",
+    "local_sub": "진주시갑"
+  },
+  {
+    "name": "박덕흠",
+    "local": "충북",
+    "local_sub": "보은군옥천군영동군괴산군"
+  },
+  {
+    "name": "박상웅",
+    "local": "경남",
+    "local_sub": "밀양시의령군함안군창녕군"
+  },
+  {
+    "name": "박성민",
+    "local": "울산",
+    "local_sub": "중구"
+  },
+  {
+    "name": "박성훈",
+    "local": "부산",
+    "local_sub": "북구을"
+  },
+  {
+    "name": "박수민",
+    "local": "서울",
+    "local_sub": "강남구을"
+  },
+  {
+    "name": "박수영",
+    "local": "부산",
+    "local_sub": "남구"
+  },
+  {
+    "name": "박정하",
+    "local": "강원",
+    "local_sub": "원주시갑"
+  },
+  {
+    "name": "박정훈",
+    "local": "서울",
+    "local_sub": "송파구갑"
+  },
+  {
+    "name": "박준태",
+    "local": "비례",
+    "local_sub": ""
+  },
+  {
+    "name": "박충권",
+    "local": "비례",
+    "local_sub": ""
+  },
+  {
+    "name": "박형수",
+    "local": "경북",
+    "local_sub": "의성군청송군영덕군울진군"
+  },
+  {
+    "name": "배준영",
+    "local": "인천",
+    "local_sub": "중구강화군옹진군"
+  },
+  {
+    "name": "배현진",
+    "local": "서울",
+    "local_sub": "송파구을"
+  },
+  {
+    "name": "백종헌",
+    "local": "부산",
+    "local_sub": "금정구"
+  },
+  {
+    "name": "서명옥",
+    "local": "서울",
+    "local_sub": "강남구갑"
+  },
+  {
+    "name": "서범수",
+    "local": "울산",
+    "local_sub": "울주군"
+  },
+  {
+    "name": "서일준",
+    "local": "경남",
+    "local_sub": "거제시"
+  },
+  {
+    "name": "서지영",
+    "local": "부산",
+    "local_sub": "동래구"
+  },
+  {
+    "name": "서천호",
+    "local": "경남",
+    "local_sub": "사천시남해군하동군"
+  },
+  {
+    "name": "성일종",
+    "local": "충남",
+    "local_sub": "서산시태안군"
+  },
+  {
+    "name": "송석준",
+    "local": "경기",
+    "local_sub": "이천시"
+  },
+  {
+    "name": "송언석",
+    "local": "경북",
+    "local_sub": "김천시"
+  },
+  {
+    "name": "신동욱",
+    "local": "서울",
+    "local_sub": "서초구을"
+  },
+  {
+    "name": "신성범",
+    "local": "경남",
+    "local_sub": "산청군함양군거창군합천군"
+  },
+  {
+    "name": "안상훈",
+    "local": "비례",
+    "local_sub": ""
+  },
+  {
+    "name": "엄태영",
+    "local": "충북",
+    "local_sub": "제천시단양군"
+  },
+  {
+    "name": "우재준",
+    "local": "대구",
+    "local_sub": "북구갑"
+  },
+  {
+    "name": "유상범",
+    "local": "강원",
+    "local_sub": "홍천군횡성군영월군평창군"
+  },
+  {
+    "name": "유영하",
+    "local": "대구",
+    "local_sub": "달서구갑"
+  },
+  {
+    "name": "유용원",
+    "local": "비례",
+    "local_sub": ""
+  },
+  {
+    "name": "윤상현",
+    "local": "인천",
+    "local_sub": "동구미추홀구을"
+  },
+  {
+    "name": "윤영석",
+    "local": "경남",
+    "local_sub": "양산시갑"
+  },
+  {
+    "name": "윤재옥",
+    "local": "대구",
+    "local_sub": "달서구을"
+  },
+  {
+    "name": "윤한홍",
+    "local": "경남",
+    "local_sub": "창원시마산회원구"
+  },
+  {
+    "name": "이달희",
+    "local": "비례",
+    "local_sub": ""
+  },
+  {
+    "name": "이만희",
+    "local": "경북",
+    "local_sub": "영천시청도군"
+  },
+  {
+    "name": "이상휘",
+    "local": "경북",
+    "local_sub": "포항시남구울릉군"
+  },
+  {
+    "name": "이성권",
+    "local": "부산",
+    "local_sub": "사하구갑"
+  },
+  {
+    "name": "이양수",
+    "local": "강원",
+    "local_sub": "속초시인제군고성군양양군"
+  },
+  {
+    "name": "이인선",
+    "local": "대구",
+    "local_sub": "수성구을"
+  },
+  {
+    "name": "이종배",
+    "local": "충북",
+    "local_sub": "충주시"
+  },
+  {
+    "name": "이종욱",
+    "local": "경남",
+    "local_sub": "창원시진해구"
+  },
+  {
+    "name": "이철규",
+    "local": "강원",
+    "local_sub": "동해시태백시삼척시정선군"
+  },
+  {
+    "name": "이헌승",
+    "local": "부산",
+    "local_sub": "부산진구을"
+  },
+  {
+    "name": "인요한",
+    "local": "비례",
+    "local_sub": ""
+  },
+  {
+    "name": "임이자",
+    "local": "경북",
+    "local_sub": "상주시문경시"
+  },
+  {
+    "name": "임종득",
+    "local": "경북",
+    "local_sub": "영주시영양군봉화군"
+  },
+  {
+    "name": "장동혁",
+    "local": "충남",
+    "local_sub": "보령시서천군"
+  },
+  {
+    "name": "정동만",
+    "local": "부산",
+    "local_sub": "기장군"
+  },
+  {
+    "name": "정성국",
+    "local": "부산",
+    "local_sub": "부산진구갑"
+  },
+  {
+    "name": "정연욱",
+    "local": "부산",
+    "local_sub": "수영구"
+  },
+  {
+    "name": "정점식",
+    "local": "경남",
+    "local_sub": "통영시고성군"
+  },
+  {
+    "name": "정희용",
+    "local": "경북",
+    "local_sub": "고령군성주군칠곡군"
+  },
+  {
+    "name": "조경태",
+    "local": "부산",
+    "local_sub": "사하구을"
+  },
+  {
+    "name": "조배숙",
+    "local": "비례",
+    "local_sub": ""
+  },
+  {
+    "name": "조승환",
+    "local": "부산",
+    "local_sub": "중구영도구"
+  },
+  {
+    "name": "조은희",
+    "local": "서울",
+    "local_sub": "서초구갑"
+  },
+  {
+    "name": "조정훈",
+    "local": "서울",
+    "local_sub": "마포구갑"
+  },
+  {
+    "name": "조지연",
+    "local": "경북",
+    "local_sub": "경산시"
+  },
+  {
+    "name": "주진우",
+    "local": "부산",
+    "local_sub": "해운대구갑"
+  },
+  {
+    "name": "주호영",
+    "local": "대구",
+    "local_sub": "수성구갑"
+  },
+  {
+    "name": "진종오",
+    "local": "비례",
+    "local_sub": ""
+  },
+  {
+    "name": "최보윤",
+    "local": "비례",
+    "local_sub": ""
+  },
+  {
+    "name": "최수진",
+    "local": "비례",
+    "local_sub": ""
+  },
+  {
+    "name": "최은석",
+    "local": "대구",
+    "local_sub": "동구군위군갑"
+  },
+  {
+    "name": "최형두",
+    "local": "경남",
+    "local_sub": "창원시마산합포구"
+  },
+  {
+    "name": "추경호",
+    "local": "대구",
+    "local_sub": "달성군"
+  },
+  {
+    "name": "한기호",
+    "local": "강원",
+    "local_sub": "춘천시철원군화천군양구군을"
+  },
+  {
+    "name": "한지아",
+    "local": "비례",
+    "local_sub": ""
+  }
+]
